@@ -1,3 +1,13 @@
+
+/***
+ * This code is based on two books:
+ * 	1. Steven S. Skiena 'The Algorithm Design Manual'
+ * 	2. Thomas Cormen, Charles Leiserson, Ronald Rivest Clifford Stein
+ * 		'Introduction to Algorithms'
+ * 
+ * @author: António Gonga::::gonga@kth.se 
+ * 
+ */
 #include <stdio.h>
 #include <stdlib.h>
 #include <assert.h>
